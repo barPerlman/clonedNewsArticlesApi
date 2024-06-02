@@ -43,7 +43,7 @@ Endpoint: `http://127.0.0.1:8000/api/breaking-news/content/f825244f-9f54-4295-bc
 2. Changed the api/news endpoint to return only one article, as required in the assignment doc.
 3. Enabled cross origin requests.
 
-## Running Instructions using docker container
+## Instructions for running application using docker container
 This Backend service wraped up as an docker image saved at: https://hub.docker.com/r/barper/news-articles-server 
 Run the following steps to run it as a docker container locally:
 * Prerequisit - verify you have docker engine installed locally.
